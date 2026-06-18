@@ -1,0 +1,22 @@
+<html>
+<body bgcolor="RosyBrown" text="RoyalBlue">
+<h1 align="center">Arham</h1>
+<HR>
+<FONT SIZE="6">
+<br/> This is a <b>bold</b> man
+<br/><br/>This is a <U> Texas </U> man  
+<br/> This is a <strong> Strong </strong> creature
+<br/> I stands for <i> italics </i>
+<br/> This will <em> emphasize </em> your text
+<br/> This will <mark> highlight </mark> your word
+<br/> This is a <small>small</small> text
+<br/> This is a <big> Big </big> river
+<br/> I want red color, not <del> green </del>
+<br/> Please insert <ins> THIS </ins> instead of THAT
+<br/> H<sub>2</sub>O
+<br/> x<sup>3</sup>
+<br/> I want red color, not <strike> green </strike>
+<br/> This is a <tt> different </tt> font
+</FONT>
+</body>
+</html>
