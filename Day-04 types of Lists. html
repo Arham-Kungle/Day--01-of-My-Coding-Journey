@@ -1,0 +1,22 @@
+html>
+<body bgcolor=mediumaquamarime text=white>
+<h1><center>Nested List example</center></h1><hr>
+<p>List can be nested</p>
+<ul>
+    <li>coffee
+            <ul>
+              <li>Cold Coffee</li>  
+              <li>Hot Coffee</li>
+            </ul>
+    </li>
+    
+    <li>Tea
+           <ol type=i>
+               <li>Cold coffee</li>
+               <li>Hot Coffee</li>
+           </ol>
+    </li>
+</ul>
+</body>
+</html>
+          
