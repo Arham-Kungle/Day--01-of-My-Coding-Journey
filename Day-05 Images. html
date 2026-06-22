@@ -1,0 +1,17 @@
+<html>
+<body bgcolor="chocolate" text="chartreuse">
+<h1><center>PICTURE GALLERY</center></h1>
+<hr color="crimson">
+
+<center>
+<IMG SRC="IMAGES/pexels-m-venter-1659438.jpg" 
+border="6" height="80%" width="500" alt="downloading" />
+</center>
+<hr>
+<center>
+<IMG SRC="IMAGES/shapes1.png" 
+border="6" height="80%" width="500" alt="downloading" />
+</center>
+
+</body>
+</html>
