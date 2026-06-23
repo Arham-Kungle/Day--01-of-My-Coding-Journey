@@ -1,0 +1,35 @@
+<html>
+<head>
+<body bgcolor="Darkkhaki" text="DarkGreen">
+<Table border="5"bgcolor="tomato"bordercolor="white" cellspacing="5" cellpadding="5">
+<TR>
+<TH>ROLL NO</TH>
+<TH>STUDENT NAME</TH>
+<TH>COURSE</TH>
+<TH>BATCH</TH>
+</TR>
+
+<TR>
+<TD>1</TD>
+<TD>AYUSH LOKHANDE</TD>
+<TD>ASP.NET</TD>
+<TD>7 TO 8</TD>
+</TR>
+
+<TR>
+<TD>2</TD>
+<TD>VIMAL SHARMA</TD>
+<TD>XAMARIN</TD>
+<TD>8 TO 9</TD>
+</TR>
+        
+<TR>
+<TD>3</TD>
+<TD>ROHIT PATIL</TD>
+<TD>PYTHON</TD>
+<TD>6 TO 7</TD>
+</TR>
+
+</Table>
+</body>
+</html>
