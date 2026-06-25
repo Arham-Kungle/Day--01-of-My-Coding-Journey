@@ -1,0 +1,34 @@
+<html>
+<body BGCOLOR="black" TEXT="gold">
+<H1><CENTER>FEEDBACK FORM</CENTER></H1><hr color="green">
+<FORM>
+<PRE>
+Name:-&nbsp;&nbsp;&nbsp;&nbsp;<input type=text size=20><br>
+Password:-<input type=password /><br /><br>
+Gender:- <br>
+<input type=radio name=rdgender> Male <BR>
+<input type=radio name=rdgender>Female<br><br>
+<input type=radio name=rdgender>Others<br><br>
+
+Education<br>
+<select>
+<option>PG</option>
+<option>Graduate</option>
+<option>UG</option>
+<option>Others </option>
+</select><br><br>
+
+Hobbies:- <br>
+<input type=checkbox>Reading<br>
+<input type=checkbox>Cycling<br>
+<input type=checkbox>Swimming<br><br>
+Comments:- <br>
+<textarea rows="8" cols="50"> your comments goes here</TEXTAREA><hr>
+<input type=submit value="SAVE & CONTINUE">
+<input type=reset value="Refresh"> <hr>
+
+<button>EXIT</button>
+</PRE>
+</FORM>
+</body>
+</html>
