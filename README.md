@@ -11,3 +11,4 @@ Day 5.Completed- 1) Image gallery with <IMG> and attributes. 2) Text styling usi
 Day 6. A simple HTML project demonstrating table creation using basic HTML tags and attributes like bgcolor, border, cellspacing, and cellpadding. 
 Day 7.HTML table demonstrating the use of `rowspan` and `colspan` attributes. 
 Day 8.A simple HTML feedback form created using basic form elements. This project demonstrates the use of HTML tags like `<form>`, `<input>`, `<select>`, `<textarea>` and `<button>`.
+Day 9: HTML Image Maps,Created a project  that demonstrates HTML `<map>` and `<area>` tags to create an interactive image map. 
