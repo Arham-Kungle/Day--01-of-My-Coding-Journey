@@ -1,0 +1,34 @@
+<html>
+<html>
+<title>City Navigation</title>
+<body bgcolor="Darkkhaki" text="darkgreen">
+
+<h1 align="center">Indian Cities</h1>
+<hr color="DeepPink">
+
+<h2><a name="mumbai">Mumbai</a></h2>
+<a href="#delhi">go to Delhi</a><br>
+<a href="#jaipur">go to Jaipur</a><br>
+<a href="#kanpur">go to Kanpur</a><br>
+
+
+<h2><a name="jaipur">Jaipur</a></h2>
+<a href="#mumbai">go to Mumbai</a><br>
+<a href="#kanpur">go to Kanpur</a><br>
+<a href="#delhi">go to Delhi</a><br>
+
+<h2><a name="kanpur">Kanpur</a></h2>
+<a href="#mumbai">go to Mumbai</a><br>
+<a href="#jaipur">go to Jaipur</a><br>
+<a href="#delhi">go to Delhi</a><br>
+
+
+<h2><a name="delhi">Delhi</a></h2>
+<a href="#mumbai">go to Mumbai</a><br>
+<a href="#jaipur">go to Jaipur</a><br>
+<a href="#kanpur">go to Kanpur</a><br>
+
+<center><a href="#mumbai">Go to Top</a></center>
+
+</body>
+</html>
