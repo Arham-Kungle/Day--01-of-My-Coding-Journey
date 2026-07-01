@@ -1,0 +1,18 @@
+<html>
+<body>
+
+<img src="image_map_example_shapes.jpeg" usemap="#connect_image">
+
+<map name="connect_image">
+  <area shape="poly" coords="57,130,170,78,315,244,205,308" 
+        href="https://www.facebook.com/">
+  
+  <area shape="poly" coords="210,102,230,87,518,88,517,192,300,190" 
+        href="https://www.instagram.com/">
+  
+  <area shape="poly" coords="27,28,525,356,26,357" 
+        href="https://www.youtube.com/">
+</map>
+
+</body>
+</html>
