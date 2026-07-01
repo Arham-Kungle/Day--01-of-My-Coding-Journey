@@ -20,3 +20,5 @@ Day 7.HTML table demonstrating the use of `rowspan` and `colspan` attributes.
 Day 8.A simple HTML feedback form created using basic form elements. This project demonstrates the use of HTML tags like `<form>`, `<input>`, `<select>`, `<textarea>` and `<button>`.
 
 Day 9: HTML Image Maps,Created a project  that demonstrates HTML `<map>` and `<area>` tags to create an interactive image map. 
+
+Day 10:Made a clickable project that shows how to use HTML image maps to make different parts of a single image clickable.
