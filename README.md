@@ -22,3 +22,5 @@ Day 8.A simple HTML feedback form created using basic form elements. This projec
 Day 9: HTML Image Maps,Created a project  that demonstrates HTML `<map>` and `<area>` tags to create an interactive image map. 
 
 Day 10:Made a clickable project that shows how to use HTML image maps to make different parts of a single image clickable.
+
+Day 11,12: Done just revision and done basic practice and revision of the previous codes.Stay tuned for more✌
