@@ -1,0 +1,22 @@
+body
+{
+background-color: DarkSeaGreen;
+color: DarkSalmon;
+}
+
+h1
+{
+background-color: Beige;
+color: red;
+text-align: center;
+font-size: 36px;
+}
+
+p {font-family: verdana; font-size: 20px;}
+
+b{
+color: gold;
+font-size: 30px;
+}
+
+
