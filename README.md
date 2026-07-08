@@ -24,3 +24,6 @@ Day 9: HTML Image Maps,Created a project  that demonstrates HTML `<map>` and `<a
 Day 10:Made a clickable project that shows how to use HTML image maps to make different parts of a single image clickable.
 
 Day 11,12: Done just revision and done basic practice and revision of the previous codes.Stay tuned for more✌
+
+Day 13:A beginner-friendly collection of basic CSS styling examples. 
+Covers body, h1, p, and b tags with properties like background-color, color, font-size, text-align, and font-family.
