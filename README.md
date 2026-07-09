@@ -27,3 +27,6 @@ Day 11,12: Done just revision and done basic practice and revision of the previo
 
 Day 13:A beginner-friendly collection of basic CSS styling examples. 
 Covers body, h1, p, and b tags with properties like background-color, color, font-size, text-align, and font-family.
+
+Day 14: learned different types of css. Basic HTML page demonstrating Internal CSS with different selectors like id, class, and tag. 
+Used for learning color, background-color, font-size, and text-align properties.
