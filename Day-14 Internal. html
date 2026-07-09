@@ -1,0 +1,46 @@
+<html>
+<head>
+<style>
+body{background-color:DarkKhaki;}
+#para1{
+    color:red;
+    background-color:Aquamarine;
+}
+#vichitr{
+    font-size:20px;
+    color:FloralWhite;
+    background-color:Fuchsia;
+}
+.tulip{
+    text-align:center;
+    color:DarkRed;
+    background-color:DarkSeaGreen;
+    font-size:50px;
+}
+.vip{
+    text-align:center;
+    color:white;
+    background-color:Crimson;
+    font-size:20px;
+}
+.headings{
+    color:yellow;
+    background-color:purple;
+    font-size:20px;
+}
+</style>
+</head>
+<body>
+<p id="para1">Hello World!</p>
+<p class="tulip">This paragraph is not affected by the style.</p>
+<p class="vip">This paragraph is not affected by the style.</p>
+<p>This paragraph is not affected by the style.</p>
+<h1 class="tulip">Advanced Computers.</h1>
+<p>This paragraph is not affected by the style.</p>
+<h2 class="vip">Advanced Computers.</h2>
+<p id="vichitr">This paragraph is not affected by the style.</p>
+<h2 id="vichitr">This paragraph is not affected by the style.</h2>
+<u class="tulip">Advanced</u>
+<h2 class="headings">abc pqr</h2>
+</body>
+</html>
