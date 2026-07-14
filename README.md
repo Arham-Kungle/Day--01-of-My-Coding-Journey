@@ -30,3 +30,5 @@ Covers body, h1, p, and b tags with properties like background-color, color, fon
 
 Day 14: learned different types of css. Basic HTML page demonstrating Internal CSS with different selectors like id, class, and tag. 
 Used for learning color, background-color, font-size, and text-align properties.
+
+Day 15,16,17:Learned a little more about css  like text properties,font properties and more css properties.Now in few times I will be starting preparing a real time website stay tuned for the upcoming updates ✌
