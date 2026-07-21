@@ -32,3 +32,7 @@ Day 14: learned different types of css. Basic HTML page demonstrating Internal C
 Used for learning color, background-color, font-size, and text-align properties.
 
 Day 15,16,17:Learned a little more about css  like text properties,font properties and more css properties.Now in few times I will be starting preparing a real time website stay tuned for the upcoming updates ✌
+
+
+
+CAN'T UPLOAD ANY CODE AS CURRENTLY I'M WORKING ON MAKING MY FIRST COLLEGE WEBSITE. WILL SURELY UPLOAD ONE'S IT'S COMPLETE, TILL THEN STAY CONNECTED. 
