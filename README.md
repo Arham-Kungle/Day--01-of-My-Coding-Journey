@@ -38,13 +38,18 @@ Day 15,16,17:Learned a little more about css  like text properties,font properti
 CAN'T UPLOAD ANY CODE AS CURRENTLY I'M WORKING ON MAKING MY FIRST COLLEGE WEBSITE. WILL SURELY UPLOAD ONE'S IT'S COMPLETE, TILL THEN STAY CONNECTED. 
 
 
-Day 19:# Hello World Program in C++
+Day 19:# Hello World Program in C
 
-Created a basic "Hello World" program written in C++. 
-It is often the first program beginners write to understand C++ syntax and how to output text to the console.
+Created a basic "Hello World" program written in C. 
+It is often the first program beginners write to understand C syntax and how to output text to the console.
 
 
 Date:-09/07/2026
-CURRENTLY LEARNING C++ AND MAKING FOUNDATION STRONG ON IT. BUILDING LOGIC. WILL UPLOAD SOMETHING INTERESTING SHORTLY STAY TUNED👍👍
+CURRENTLY LEARNING C AND MAKING FOUNDATION STRONG ON IT. BUILDING LOGIC. WILL UPLOAD SOMETHING INTERESTING SHORTLY STAY TUNED👍👍
+
+
+
+Date :-01/09/2026
+I have learned C language and will shortly start Python
 
 
