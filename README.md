@@ -41,12 +41,7 @@ CAN'T UPLOAD ANY CODE AS CURRENTLY I'M WORKING ON MAKING MY FIRST COLLEGE WEBSIT
 Day 19:# Hello World Program in C
 
 Created a basic "Hello World" program written in C. 
-It is often the first program beginners write to understand C syntax and how to output text to the console.
-
-
-Date:-09/07/2026
-CURRENTLY LEARNING C AND MAKING FOUNDATION STRONG ON IT. BUILDING LOGIC. WILL UPLOAD SOMETHING INTERESTING SHORTLY STAY TUNED👍👍
-
+It is often the first program beginners write to understand C syntax and how to output text to the console. 
 
 
 Date :-01/09/2026
